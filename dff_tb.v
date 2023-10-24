@@ -37,6 +37,8 @@ module dff_tb();
     end
 endmodule
 
+//DEPENDING ON WHICH VERSION OF THE DFLIPFLOP WAS BEING TESTED A DIFFERENT MODULE WAS UNCOMMENTED
+
 //module dff_tb();
 //    reg clk;
 //    reg d; 
